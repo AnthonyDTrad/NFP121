@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=DummyClass
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ DummyClass\ here.\r\n\ Tester\ push\ et\ pull\ sur\ github\ \r\n\ @Anthony\ Trad\ (your\ name)\r\n\ @1.0\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=DummyClass()
+comment1.text=\r\n\ Constucteur\ faisant\ nimporte\ quoi\r\n
+comment2.params=y
+comment2.target=java.lang.String\ testMethod(int)
+comment2.text=\r\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\r\n\ @param\ \ y\ \ a\ sample\ parameter\ for\ a\ method\r\n@return\ the\ sum\ of\ x\ and\ y\ as\ String*
+numComments=3
